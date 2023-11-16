@@ -1,4 +1,4 @@
-# Chiliz-Web3-Bootcamp-Projects
+# Chiliz Web3 Bootcamp Projects
 
 This repository created for Chiliz Web3 Bootcamp projects to showcase.
 
@@ -8,4 +8,4 @@ There will be 3 different projects:
 
 2- NFT Marketplace
 
-3- Final Project
+3- NFT Wishlist
